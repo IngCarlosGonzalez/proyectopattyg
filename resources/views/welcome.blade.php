@@ -51,7 +51,7 @@
                                 
                                 <div class="px-12 py-6 text-3xl font-bold text-center text-red-900 animate-pulse" >
                 
-                                    Patty González A.C.
+                                    Patty Gonzalez A.C.
                 
                                 </div>
                                 
