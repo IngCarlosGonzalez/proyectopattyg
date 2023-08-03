@@ -9,7 +9,7 @@
         <div class="mx-auto max-w-7xl sm:px-6 lg:px-8">
             <div class="overflow-hidden bg-black shadow-xl sm:rounded-lg">
                 
-                <div class="py-12 font-bold text-center text-yellow-900 text-8xl animate-pulse" >
+                <div class="py-12 text-6xl font-bold text-center text-yellow-900 animate-pulse" >
 
                     Contenido de Prueba 1
 
