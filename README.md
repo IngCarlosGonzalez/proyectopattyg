@@ -4,15 +4,17 @@
 PattyGonzalez A.C.
 es una aplicación desarrollada para el uso
 principal de mi hermana Patty...
-Siin embargo ella puede agregar alguynos
+
+Además ella puede agregar alguynos
 otros usuarios comunes para apoyarse
+en las tareas de su Asociación Civil.
 
 ## Autor
 
-cegcdeveloper
+calin_mx
 
 ## fecha
 
-Agosto 4, 2023
+Agosto 9, 2023
 
 

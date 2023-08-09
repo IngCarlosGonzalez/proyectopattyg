@@ -49,9 +49,9 @@
                         <div class="mx-auto max-w-7xl sm:px-6 lg:px-8">
                             <div class="overflow-hidden bg-black shadow-xl sm:rounded-lg">
                                 
-                                <div class="px-12 py-6 text-3xl font-bold text-center text-red-900 animate-pulse" >
+                                <div class="px-12 py-6 text-3xl font-bold text-center text-blue-900 animate-pulse" >
                 
-                                    Patty Gonzalez A.C.
+                                    Patty Gonzalez A.C. 22023
                 
                                 </div>
                                 
